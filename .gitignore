@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+*/venv/
+*/.venv/
+
+# Python cache & compiled files
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+face_recognition_data.pkl
+
+# IDE files
+.idea/
+*/.idea/
+.vscode/
+
+# Windows artifacts & shortcuts
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+screenshot_*.png
+*.log
